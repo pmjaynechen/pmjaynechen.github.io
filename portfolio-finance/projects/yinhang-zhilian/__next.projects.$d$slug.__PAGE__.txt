@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[34795,["/_next/static/chunks/a44379359a8e33e0.js","/_next/static/chunks/ccbace81802392c4.js"],"default"]
-3:I[45444,["/_next/static/chunks/eb896a28cabfa631.js","/_next/static/chunks/fee5ee88673ed17a.js"],"OutletBoundary"]
+2:I[34795,["/portfolio-finance/_next/static/chunks/a44379359a8e33e0.js","/portfolio-finance/_next/static/chunks/ccbace81802392c4.js"],"default"]
+3:I[45444,["/portfolio-finance/_next/static/chunks/eb896a28cabfa631.js","/portfolio-finance/_next/static/chunks/fee5ee88673ed17a.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"aO2UK9eY2f0mDXNwDqETS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"title":"银企直联","description":"银企直联对接","tags":["银企直联","支付"],"category":"其他","content":"银企直联三方对接与测试，实现支付自动化。"}}],[["$","script","script-0",{"src":"/_next/static/chunks/ccbace81802392c4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"3MQsg8u9w09isIgkU2iiW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"title":"银企直联","description":"银企直联对接","tags":["银企直联","支付"],"category":"其他","content":"银企直联三方对接与测试，实现支付自动化。"}}],[["$","script","script-0",{"src":"/portfolio-finance/_next/static/chunks/ccbace81802392c4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null

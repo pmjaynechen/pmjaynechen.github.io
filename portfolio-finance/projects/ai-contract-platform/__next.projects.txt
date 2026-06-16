@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[82409,["/_next/static/chunks/eb896a28cabfa631.js","/_next/static/chunks/fee5ee88673ed17a.js"],"default"]
-3:I[969,["/_next/static/chunks/eb896a28cabfa631.js","/_next/static/chunks/fee5ee88673ed17a.js"],"default"]
-0:{"buildId":"aO2UK9eY2f0mDXNwDqETS","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[82409,["/portfolio-finance/_next/static/chunks/eb896a28cabfa631.js","/portfolio-finance/_next/static/chunks/fee5ee88673ed17a.js"],"default"]
+3:I[969,["/portfolio-finance/_next/static/chunks/eb896a28cabfa631.js","/portfolio-finance/_next/static/chunks/fee5ee88673ed17a.js"],"default"]
+0:{"buildId":"3MQsg8u9w09isIgkU2iiW","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
