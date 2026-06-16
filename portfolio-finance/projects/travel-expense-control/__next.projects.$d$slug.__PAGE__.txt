@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[34795,["/portfolio-finance/_next/static/chunks/a44379359a8e33e0.js","/portfolio-finance/_next/static/chunks/ccbace81802392c4.js"],"default"]
-3:I[45444,["/portfolio-finance/_next/static/chunks/eb896a28cabfa631.js","/portfolio-finance/_next/static/chunks/fee5ee88673ed17a.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"3MQsg8u9w09isIgkU2iiW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"title":"差旅费控系统","description":"差旅费用全链路管控","tags":["费控","携程API","滴滴API"],"category":"财务","metrics":"服务 1500+ 员工","content":"服务集团1500+员工，对接携程、滴滴，实现差旅申请→预订→报销全流程线上化，降低差旅成本。"}}],[["$","script","script-0",{"src":"/portfolio-finance/_next/static/chunks/ccbace81802392c4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
