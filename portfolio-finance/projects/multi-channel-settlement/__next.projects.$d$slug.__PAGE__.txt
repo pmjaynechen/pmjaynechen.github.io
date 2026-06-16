@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[34795,["/_next/static/chunks/a44379359a8e33e0.js","/_next/static/chunks/ccbace81802392c4.js"],"default"]
+3:I[45444,["/_next/static/chunks/eb896a28cabfa631.js","/_next/static/chunks/fee5ee88673ed17a.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"aO2UK9eY2f0mDXNwDqETS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"title":"代销仓结算系统","description":"多渠道代销仓结算","tags":["结算","代销","库存管理"],"category":"财务","metrics":"2023 年项目金奖，亿级负库存清零","content":"多渠道代销仓结算（天猫、京东、唯品会、屈臣氏），解决亿级负库存至审计可接受水平，2023年公司金奖。"}}],[["$","script","script-0",{"src":"/_next/static/chunks/ccbace81802392c4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[34795,["/_next/static/chunks/a44379359a8e33e0.js","/_next/static/chunks/ccbace81802392c4.js"],"default"]
+3:I[45444,["/_next/static/chunks/eb896a28cabfa631.js","/_next/static/chunks/fee5ee88673ed17a.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"aO2UK9eY2f0mDXNwDqETS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"title":"ERP-U9财务系统上线","description":"用友ERP-U9从零上线","tags":["ERP实施","用友NC","财务模块"],"category":"财务","metrics":"月结效率 5天→1天","content":"主导用友ERP-U9从零上线，替代不适用的金蝶系统，月结时间从5天优化至1天。"}}],[["$","script","script-0",{"src":"/_next/static/chunks/ccbace81802392c4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

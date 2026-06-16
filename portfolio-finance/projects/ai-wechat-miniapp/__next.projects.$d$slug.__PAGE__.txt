@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[34795,["/_next/static/chunks/a44379359a8e33e0.js","/_next/static/chunks/ccbace81802392c4.js"],"default"]
+3:I[45444,["/_next/static/chunks/eb896a28cabfa631.js","/_next/static/chunks/fee5ee88673ed17a.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"aO2UK9eY2f0mDXNwDqETS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"title":"能吃嘛","description":"单人全栈操盘「能吃嘛」AI 饮食助手项目，全程使用 Vibe Coding 完成 0-1 MVP 落地。","tags":["Vibe Coding","微信小程序","LLM","uni-app"],"category":"AI","content":"单人全栈操盘「能吃嘛」AI 饮食助手项目，全程使用 Vibe Coding 完成 0-1 MVP 落地。\n\n核心设计：\n• RAG 检索增强知识库，沉淀食材成分、肾病分期、临床指南等专业数据\n• 搭建自然语言意图识别模块，拆解问答全链路逻辑\n• 让 AI 精准理解用户饮食咨询诉求并输出合规专业建议\n\n兼顾领域：\n• 知识库迭代\n• 接口规划\n• 适老化体验\n• 医疗合规与运营体系设计\n\n实现 AI 能力，产品功能，业务运营一体化落地。"}}],[["$","script","script-0",{"src":"/_next/static/chunks/ccbace81802392c4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

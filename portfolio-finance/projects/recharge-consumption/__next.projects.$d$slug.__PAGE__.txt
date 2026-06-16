@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[34795,["/_next/static/chunks/a44379359a8e33e0.js","/_next/static/chunks/ccbace81802392c4.js"],"default"]
+3:I[45444,["/_next/static/chunks/eb896a28cabfa631.js","/_next/static/chunks/fee5ee88673ed17a.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"aO2UK9eY2f0mDXNwDqETS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"title":"营销费用业务一体化","description":"平台店铺/营销费用充值消耗全流程管理系统","tags":["费控","对账","OA集成","NC对接"],"category":"财务","metrics":"效率提升 70%，数据合规率 100%","content":"项目名称：平台店铺/营销费用充值消耗全流程管理系统\n\n项目概述：\n本项目针对电商平台店铺的充值、消耗，入账、报销，品牌应收等环节存在的手工操作多，数据孤岛、流程割裂等痛点，通过打通OA、FFC、NC三大系统，构建了一套覆盖账户统一管控 → 充值申请与付款 → 消耗清单自动获取与汇总 → 费用统一入账 → 发票报销与消耗单关联 → 品牌应收追溯的全链路自动化闭环管理平台。\n\n核心系统集成方案设计与落地：\n• 主导跨部门协作，完成三系统接口对接方案设计（余额实时调用、自动消耗清单同步，单据状态关联回写），确保数据一致性\n• 联动业务与开发团队推进验收上线，并制定期初数据迁移方案，保障系统平滑切换\n\n关键风控机制设计：\n• 实时余额校验\n• 超额付款升级审批\n• 申请单到期自动关闭及关联付款单回收\n• 报销三单金额平衡校验等核心风控逻辑\n\n最终价值：消除数据孤岛，实现业务单据系统化流转与财务入账自动化，提升整体作业效率。"}}],[["$","script","script-0",{"src":"/_next/static/chunks/ccbace81802392c4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
